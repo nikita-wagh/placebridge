@@ -1,5 +1,5 @@
-import { Bell, LayoutDashboard, Building2, User, BriefcaseBusiness } from "lucide-react";
 import { motion } from "framer-motion";
+import { Bell, BriefcaseBusiness, Building2, LayoutDashboard, User } from "lucide-react";
 
 interface NavbarProps {
   unreadCount: number;
